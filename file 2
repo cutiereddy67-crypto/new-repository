@@ -1,0 +1,177 @@
+GitHub Branch Management – Viva Questions
+Basic questions
+1. What is GitHub?
+
+GitHub is an online platform used to store, manage and share source code.
+
+2. What is Git?
+
+Git is a version control system. Code lo changes ni track cheyadaniki use chestham.
+
+3. What is a repository?
+
+Repository is a place where project files and code are stored.
+
+4. What is a branch?
+
+Branch is a separate working area. Main code disturb cheyakunda new features develop cheyochu.
+
+5. What is the main branch?
+
+main is the primary branch. Usually production-ready code ikkada maintain chestham.
+
+6. What is a develop branch?
+
+Develop branch is used to combine and test new features before adding them to main.
+
+7. Why do we create branches?
+
+Main code affect kakunda separate ga development cheyadaniki branches create chestham.
+
+Branch management questions
+8. How do you create a new branch in GitHub?
+
+Branch dropdown click chesi, new branch name enter chesi Create branch click chestham.
+
+9. What is a feature branch?
+
+Feature branch is used to develop a particular functionality.
+
+Example: feature/login.
+
+10. What is a Pull Request?
+
+Pull Request (PR) is a request to merge changes from one branch into another branch.
+
+11. What is merging?
+
+Merging means combining changes from one branch into another branch.
+
+12. What is a merge conflict?
+
+Two branches lo same code lines different ga modify ayinappudu merge conflict occur avvachu.
+
+13. Can we delete a branch after merging?
+
+Yes. Merge ayyaka unnecessary feature branches delete cheyochu.
+
+14. What is the difference between main and develop?
+
+Main – Production-ready code.
+
+Develop – New features integration and testing.
+
+15. What is a commit?
+
+Commit is a saved snapshot of changes in the repository.
+
+Practical questions
+16. Which branches did you create in your project?
+
+I created three branches:
+
+main
+
+develop
+
+feature/login
+
+17. Which website did you use?
+
+I used the GitHub website.
+
+18. What programming language did you use?
+
+I used Java for my project.
+
+19. How do you add a Java file in GitHub?
+
+Add file → Create new file → Enter filename → Write Java code → Commit changes.
+
+20. What is the purpose of README.md?
+
+README.md contains project information, description and instructions.
+
+Important differences for viva
+Git
+
+GitHub
+
+Version control system
+
+Online code hosting platform
+
+Works locally
+
+Works online
+
+Tracks code changes
+
+Stores and shares repositories
+
+Top 5 questions – Must prepare
+Important for viva
+What is GitHub?
+
+What is a branch?
+
+Why do we create branches?
+
+What is a Pull Request?
+
+What is merging?
+
+Test your viva knowledge!
+Mini Viva Quiz
+
+0/5 answered
+1. What is a branch in GitHub?
+
+
+A separate working area
+
+A programming language
+
+A database
+
+2. What is a Pull Request?
+
+
+Deleting a repository
+
+Request to merge changes
+
+Creating a Java file
+
+3. Which branch is generally used for production-ready code?
+
+
+feature/login
+
+develop
+
+main
+
+4. What is a commit?
+
+
+A saved snapshot of changes
+
+A new branch
+
+A repository name
+
+5. Why do we create feature branches?
+
+
+To delete code
+
+To develop new features separately
+
+To close GitHub
+
+Viva tip: Answers lengthy ga cheppalsina avasaram ledu. Definition + one simple example chepthe chaalu! 👍
+
+
+ChatGPT is AI and can make mistakes.
+
