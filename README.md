@@ -1,0 +1,1 @@
+about managing github repository
